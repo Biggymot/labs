@@ -25,9 +25,7 @@ class Student():
     def print_avr_score(self, avr_score_text):
         print self.name, avr_score_text, self.avr_score
 
-    # def print_
 
-# <Name>'s age is <age>
 st1 = Student("Mary", 20, 5)
 # st1.name = "Mary"
 # st1.age = 20

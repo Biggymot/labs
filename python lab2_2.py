@@ -26,9 +26,7 @@ song = y * (couplet + ' ')
 song = song[:-1]
 
 print 'Everybody sing a song:' + ' ' + song + tail
-#a*b = a+a+a...+a=(a+a+a)+(a+a+....+a)=3a +(b-3)*a=3a+a*b-3a=
-#a*b = a*k + (b-k)*a = a*k + b*a - k*a = a*b
-#a*b = a*1 + (b-1)*a
+
 
 
 
